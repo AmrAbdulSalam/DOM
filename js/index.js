@@ -100,4 +100,3 @@ var additem2 = document.createElement('a');
 additem2.innerText = 'navigation2'
 document.getElementById('navigat').appendChild(additem2);
 
-document.querySelector('.changeit').style.
